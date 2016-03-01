@@ -1,0 +1,2 @@
+# DeleteLinkedList_HeadNode
+C语言实现删除带头结点单链表中的某一个节点
